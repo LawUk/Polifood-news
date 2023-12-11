@@ -7,9 +7,9 @@ tags: [Acerca de nosotros]
 image: 
 ---
 
-**Explorando Polifood: La Revolución de la Entrega de Alimentos en el Campus**
+**Explorando Polifood: La Revolución de la Entrega de Alimentos en UPIIG**
 
-*Capítulo I: Desafíos en el Campus UPIIG*
+*Capítulo I: Desafíos en UPIIG*
 
 En los bulliciosos pasillos de nuestra querida unidad académica, surge una problemática que todos conocemos muy bien: la lucha diaria por una comida adecuada entre clases. Las largas filas en la cafetería y la escasez de tiempo resultan en una alimentación apresurada e insatisfactoria para muchos estudiantes. Es aquí donde nace la historia de Polifood, una iniciativa decidida a cambiar la forma en que experimentamos la alimentación en nuestro campus.
 
