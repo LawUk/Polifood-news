@@ -4,7 +4,7 @@ title: "FAQ"
 author: "--"
 categories: facts
 tags: [Acerca de nosotros]
-image: 
+image: forest.jpg
 ---
 
 1. ¿Qué es Poli-Food?
