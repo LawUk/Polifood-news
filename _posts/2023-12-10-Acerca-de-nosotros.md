@@ -7,30 +7,36 @@ tags: [Acerca de nosotros]
 image: 
 ---
 
-**Explorando Polifood: La Revolución de la Entrega de Alimentos en UPIIG**
+1. ¿Qué es Poli-Food?
 
-*Capítulo I: Desafíos en UPIIG*
+    Poli-Food es un proyecto innovador que busca revolucionar la experiencia alimentaria de los estudiantes en nuestra unidad académica. Desde un vehículo autónomo hasta una plataforma web, nuestro objetivo es hacer que la comida sea accesible y conveniente.
 
-En los bulliciosos pasillos de nuestra querida unidad académica, surge una problemática que todos conocemos muy bien: la lucha diaria por una comida adecuada entre clases. Las largas filas en la cafetería y la escasez de tiempo resultan en una alimentación apresurada e insatisfactoria para muchos estudiantes. Es aquí donde nace la historia de Polifood, una iniciativa decidida a cambiar la forma en que experimentamos la alimentación en nuestro campus.
+2. ¿Cómo resolverá Poli-Food los problemas de alimentación en el campus?
 
-*Capítulo II: Objetivos Ambiciosos, Soluciones Creativas*
+    Poli-Food tiene la visión de permitir a los estudiantes realizar pedidos de alimentos desde cualquier ubicación y recibirlos directamente en el aula. Esto elimina las barreras de tiempo y distancia, brindando una solución efectiva a los problemas actuales.
 
-Polifood no se conforma con lo convencional. Con objetivos claros, el equipo se embarca en la creación de un vehículo autónomo, alimentado por energías renovables, respaldado por una página web intuitiva. La visión es clara: llevar la comida directamente desde la cafetería hasta las aulas, eliminando las barreras que impiden a los estudiantes disfrutar de sus comidas durante el día escolar.
+3. ¿Qué tipo de vehículo autónomo está desarrollando Poli-Food?
 
-*Capítulo III: Justificación y Más Allá*
+    Estamos trabajando en un vehículo autónomo eficiente impulsado por energías renovables. Aunque no contará con todas las funciones avanzadas en la primera etapa, el objetivo es garantizar una entrega segura y oportuna de alimentos desde la cafetería hasta los salones de los estudiantes.
 
-La falta de opciones de horarios y la lejanía de la cafetería plantean desafíos únicos, y Polifood no está aquí solo para solucionarlos en nuestra institución. La visión es trascender las fronteras de nuestro campus y ofrecer una solución probada a otras instituciones educativas que enfrentan desafíos similares. Polifood no solo es un proyecto local, es una iniciativa con visión de futuro.
+4. ¿Cómo puedo realizar pedidos con Poli-Food?
 
-*Capítulo IV: Hipótesis y Desafíos Esperados*
+    La plataforma web de Poli-Food será intuitiva y funcional. Los estudiantes podrán realizar pedidos desde cualquier ubicación y notificar al personal de la cafetería sobre los pedidos entrantes.
 
-Con un enfoque realista, Polifood plantea hipótesis sobre la eficiencia en la construcción de su prototipo. Reconociendo limitaciones presupuestarias y de tiempo, el equipo se embarca en la aventura con determinación. Se espera un prototipo funcional, aunque algunas características avanzadas puedan quedar pendientes en esta etapa inicial.
+5. ¿Cuándo estará disponible el servicio de Poli-Food?
 
-*Capítulo V: Inspiración Global*
+    Estamos trabajando arduamente en el desarrollo del prototipo y la plataforma web. Aunque las fechas exactas pueden variar, nuestro objetivo es implementar el servicio tan pronto como sea posible. Mantente atento a nuestras actualizaciones para conocer las novedades.
 
-En el marco teórico, Polifood explora innovaciones en la entrega de alimentos en universidades de todo el mundo. Desde los robots Cartken en la Universidad de Arizona hasta los vehículos autónomos de Starship Technologies en la Universidad de Texas en Dallas, el equipo recopila inspiraciones que alimentan su propia visión creativa.
+6. ¿Polifood tiene intenciones de expandirse más allá de nuestra institución?
 
-*Capítulo VI: Metodología y Construcción Fotográfica*
+    Sí, Poli-Food tiene la visión de compartir su solución con otras instituciones educativas que enfrentan desafíos similares en la distribución eficiente de alimentos. Nuestra iniciativa no se limita a nuestro campus; queremos ser parte de una solución global.
 
-Con un enfoque documental y de campo, Polifood compara tecnologías existentes para informar su propia investigación. Desde ruedas con motor DC hasta baterías de ion de litio, cada componente es elegido con cuidado. Las evidencias fotográficas muestran el proceso de soldadura, programación y presentación del proyecto, dando vida al viaje de Polifood.
+7. ¿Cómo puedo seguir las actualizaciones de Poli-Food?
 
-Así, en cada línea de código y en cada soldadura, la historia de Polifood se convierte en una emocionante aventura en la que la innovación y la determinación se entrelazan para crear un cambio real. Sigue con nosotros mientras exploramos el futuro de la entrega de alimentos en el campus y más allá. ¡Polifood está en camino de cambiar la forma en que nos alimentamos en la vida universitaria! 🚀🍔 #PolifoodRevolution
+    ¡Nos encantaría que te mantuvieras al tanto de nuestras novedades! Síguenos en nuestras redes sociales y visita 'Poli-Food News' para obtener las últimas noticias y avances. Únete a la revolución alimentaria con #PoliFoodRevolution.
+
+8. ¿Hay oportunidades para colaborar o participar en el proyecto Poli-Food?
+
+    Estamos siempre abiertos a la colaboración y la participación. Si tienes habilidades o ideas que podrían contribuir al proyecto, no dudes en ponerte en contacto con nosotros a través de nuestras redes sociales o el sitio web. ¡Queremos construir esto juntos!
+
+¡Esperamos haber respondido tus preguntas! Si tienes alguna inquietud adicional, no dudes en contactarnos. Estamos emocionados por el futuro de Poli-Food y agradecemos tu interés en nuestra iniciativa. 🚀🍔
