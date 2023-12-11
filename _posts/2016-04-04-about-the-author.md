@@ -4,7 +4,7 @@ title: "Acerca de polifood"
 author: "--"
 categories: facts
 tags: [Acerca de nosotros]
-image: cuba-2.jpg
+image: 
 ---
 
 **Explorando Polifood: La Revolución de la Entrega de Alimentos en el Campus**
