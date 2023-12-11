@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acerca de Poli-food"
+title: "FAQ"
 author: "--"
 categories: facts
 tags: [Acerca de nosotros]
